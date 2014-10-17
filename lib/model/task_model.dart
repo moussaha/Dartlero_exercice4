@@ -5,7 +5,7 @@ class TaskModel extends ConceptModel {
   static final String task = 'Task';
 
   Map<String, ConceptEntities> newEntries() {
-    var tasks = new Task();
+    var tasks = new Tasks();
     var map = new Map<String, ConceptEntities>();
     map[task] = tasks;
     return map;

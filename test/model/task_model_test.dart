@@ -66,7 +66,7 @@ testTasks(Tasks tasks) {
       var searchName = 'ToDoMVC';
       var task = tasks.find(searchName);
       expect(task, isNotNull);
-      expect(task.name, equals(searchName));
+      expect(task.nom, equals(searchName));
       task.display('Find Task by Name');
     });
     test('Select Tasks by Function', () {
