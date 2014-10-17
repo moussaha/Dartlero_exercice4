@@ -1,5 +1,9 @@
 ex04
 
+20/20
+
+---------------------------------
+
 ?/20
 
 votre nom et cours dans README.md
