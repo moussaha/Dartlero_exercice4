@@ -1,0 +1,15 @@
+ex04
+
+?/20
+
+votre nom et cours dans README.md
+
+SVPL utilisez .gitignore (voir mes exemples)
+en particulier pour éviter l'envoi de packages à GitHub
+
+s'il vous plaît examiner les changements que j'ai faits
+
+s'il vous plaît vérifier le code dans les tests
+
+prenez votre temps et travaillez avec Mustapha
+
